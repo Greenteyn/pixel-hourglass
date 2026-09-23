@@ -1,0 +1,40 @@
+{
+  "name": "pixel-hourglass",
+  "author": "greenteyn",
+  "version": "1.0.0",
+  "description": "A Pebble watchface that shows a stretch of time as an hourglass.",
+  "keywords": [
+    "pebble-app"
+  ],
+  "private": true,
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Greenteyn/pixel-hourglass.git"
+  },
+  "dependencies": {
+    "@rebble/clay": "^1.0.10"
+  },
+  "pebble": {
+    "displayName": "Pixel Hourglass",
+    "uuid": "63bb62e6-56d8-40fa-87a0-35218c97e8b0",
+    "sdkVersion": "3",
+    "enableMultiJS": true,
+    "targetPlatforms": [
+      "emery",
+      "gabbro"
+    ],
+    "watchapp": {
+      "watchface": true
+    },
+    "capabilities": [
+      "configurable"
+    ],
+    "messageKeys": [
+      "CyclePeriod"
+    ],
+    "resources": {
+      "media": []
+    }
+  }
+}
