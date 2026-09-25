@@ -1,7 +1,7 @@
 {
   "name": "pixel-hourglass",
   "author": "greenteyn",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "A Pebble watchface that shows a stretch of time as an hourglass.",
   "keywords": [
     "pebble-app"
@@ -34,7 +34,14 @@
       "CyclePeriod"
     ],
     "resources": {
-      "media": []
+      "media": [
+        {
+          "type": "bitmap",
+          "name": "MENU_ICON",
+          "file": "images/menu_icon.png",
+          "menuIcon": true
+        }
+      ]
     }
   }
 }
