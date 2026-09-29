@@ -13,6 +13,8 @@ pouring.
   <img src="screenshots/gabbro.png" width="200" alt="The same face on a round display">
 </p>
 
+**Install from the [Pebble appstore](https://apps.repebble.com/28e40b7f9f7e43bdb257f421) or the [Rebble appstore](https://apps.rebble.io/application/6ab945bb829a21000aada864)**
+
 ## Screen
 
 - **Date** above the glass — `SUN 13 SEP`.

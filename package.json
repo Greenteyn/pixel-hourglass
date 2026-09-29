@@ -12,6 +12,7 @@
     "type": "git",
     "url": "git+https://github.com/Greenteyn/pixel-hourglass.git"
   },
+  "homepage": "https://apps.repebble.com/28e40b7f9f7e43bdb257f421",
   "dependencies": {
     "@rebble/clay": "^1.0.10"
   },
